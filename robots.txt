@@ -1,1 +1,1 @@
-Sitemap: https://jekicker.github.io/sitemap.xml
+Sitemap: https://oneparc.github.io/sitemap.xml
